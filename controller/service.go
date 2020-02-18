@@ -96,7 +96,7 @@ loop:
 func RunMeuServico() {
 
 	/*
-		Aqui é imprementado o código do meu programa
+		Aqui é implementado o código do meu programa
 	 */
 
 }
