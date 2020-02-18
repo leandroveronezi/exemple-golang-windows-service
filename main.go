@@ -65,7 +65,7 @@ func main() {
 		return
 
 	case "install":
-		err = controller.InstallService(svcName, "SAEVeicular Upload Vídeos")
+		err = controller.InstallService(svcName, "Descrição do serviço")
 
 	case "remove":
 		err = controller.RemoveService(svcName)
